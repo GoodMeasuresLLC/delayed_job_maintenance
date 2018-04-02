@@ -1,6 +1,6 @@
 # Delayed Job Maintenance
 
-Extends the [capistrano-maitenance](https://github.com/capistrano/maintenance) to stop delayed job while the maintenance page is displayed.
+Extends [capistrano-maitenance](https://github.com/capistrano/maintenance) to stop delayed job while the maintenance page is displayed.
 
 ## Usage
 
@@ -45,8 +45,15 @@ Or install it yourself as:
 $ gem install delayed_job_maintenance
 ```
 
+
 ## Contributing
-Contribution directions go here.
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/GoodMeasuresLLC/delayed_job_maintenance. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Code of Conduct
+
+Everyone interacting in the project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/GoodMeasuresLLC/delayed_job_maintenance/blob/master/CODE_OF_CONDUCT.md).
