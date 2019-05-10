@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = DelayedJobMaintenance::VERSION
   s.authors     = ["John Naegle"]
   s.email       = ["john.naegle@gmail.com"]
-  s.homepage    = "https://github.com/goodmeasures/delayed_job_maintenance"
+  s.homepage    = "https://github.com/GoodMeasuresLLC/delayed_job_maintenance"
   s.summary     = "In conjunction with capistrano-maintenance, stop delayed jobs during maintenance"
   s.description = "In conjunction with capistrano-maintenance, stop delayed jobs during maintenance"
   s.license     = "MIT"
